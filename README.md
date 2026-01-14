@@ -121,4 +121,3 @@ Algorithmic trading system with technical indicators
 
 💡 *"Exploring the full spectrum of computer science, one project at a time"*
 
-💡 *"Exploring the full spectrum of computer science, one project at a time"*
