@@ -38,7 +38,7 @@ Git • Linux • Docker • Docker Compose • CI/CD • SQLAlchemy • Alembic
 
 ## 🔥 Featured Projects
 
-### 🛡️ Redline — Agent Safety Evals + Debate Mitigation
+### 🛡️ [Redline — Agent Safety Evals + Debate Mitigation](https://github.com/kush0o7/Redline-Agent-Safety-Eval)
 Security‑focused evaluation platform for LLM agents
 - Generates adversarial test cases and scores safety/reliability metrics
 - Baseline vs debate mode (Proposer → Critic → Revision)
@@ -46,7 +46,7 @@ Security‑focused evaluation platform for LLM agents
 - Secure by default: no unsafe tools, prompt‑injection detection, API key auth
 - **Tech:** Python, FastAPI, SQLAlchemy, Postgres, Redis, RQ, Docker
 
-### 💳 [Credit Risk Prediction](link)
+### 💳 [Credit Risk Prediction](https://creditriskcal.netlify.app)
 End-to-end ML system for financial decision-making
 - Random Forest classifier with calibrated probability scores for risk stratification
 - Full-stack application with Flask API and React frontend
@@ -61,7 +61,7 @@ Real-time attendance tracking with deep learning
 - Dashboard interface for attendance visualization and analytics
 - **Tech:** Python, TensorFlow, OpenCV
 
-### 📰 [Sentiment Analysis Bot](link)
+### 📰 [Sentiment Analysis Bot](https://github.com/kush0o7/Sentiment_Analysis_Bot)
 News-driven signal generation using NLP
 - **19% annualized return** in backtests processing 120+ headlines per run
 - Multi-source RSS pipeline fetching 1,000+ financial headlines daily
@@ -84,7 +84,7 @@ Mobile marketplace platform
 - Real-time chat, booking, and listing management
 - **Tech:** SwiftUI, Firebase
 
-### ⚽ [EPL Betting Model](link)
+### ⚽ [EPL Betting Model](https://bettingisntgood.streamlit.app)
 Sports analytics and predictive modeling
 - XGBoost classifier achieving **ROC-AUC ≈ 0.79** on 570 out-of-sample matches
 - Feature engineering with odds-derived metrics and ELO ratings
