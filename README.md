@@ -28,13 +28,13 @@ I enjoy solving complex problems, learning new technologies quickly, and buildin
 TensorFlow • XGBoost • Scikit-learn • Pandas • NumPy • NLP • Computer Vision • Time-Series Analysis
 
 **Web & Mobile Development:**  
-React.js • Flask • Django • Node.js • TypeScript • REST APIs • SwiftUI
+React.js • Flask • Django • Node.js • TypeScript • REST APIs • FastAPI • SwiftUI
 
 **Databases & Cloud:**  
-MongoDB • MySQL • AWS • Firebase
+MongoDB • MySQL • PostgreSQL • Redis • AWS • Firebase
 
 **Tools:**  
-Git • Linux • Docker • CI/CD • OpenCV • Backtrader
+Git • Linux • Docker • Docker Compose • CI/CD • SQLAlchemy • Alembic • Pydantic • RQ • OpenCV • Backtrader
 
 ## 🔥 Featured Projects
 
@@ -92,7 +92,7 @@ Sports analytics and predictive modeling
 - Backtested multiple betting strategies with ROI evaluation
 - **Tech:** Python, XGBoost, Scikit-learn, Streamlit
 
-### 📊 [Momentum Trading Strategy](link)
+### 📊 [Momentum Trading Strategy](https://github.com/kush0o7/Momentum_Following_Strategy)
 Algorithmic trading system with technical indicators
 - SMA crossover strategy (Golden Cross/Death Cross) implemented in Backtrader
 - Backtested across stocks, ETFs, and crypto using historical data
@@ -100,12 +100,6 @@ Algorithmic trading system with technical indicators
 - Extensible framework for live trading integration
 - **Tech:** Python, Backtrader, yfinance
 
-## ✅ Skills Used in Redline
-**Core:** Python • FastAPI • SQLAlchemy • Alembic • Pydantic  
-**Infra:** Docker • Docker Compose • Redis • RQ • Postgres  
-**Security:** API key auth • rate limiting • prompt‑injection defense • secure logging  
-**Testing:** Pytest • reproducible evaluation harness  
-**Systems:** background jobs • deterministic test generation • trace logging  
 
 ## 💼 Experience
 
