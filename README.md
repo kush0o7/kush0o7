@@ -22,6 +22,7 @@ I enjoy solving complex problems, learning new technologies quickly, and buildin
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
 **ML & Data Science:**  
 TensorFlow • XGBoost • Scikit-learn • Pandas • NumPy • NLP • Computer Vision • Time-Series Analysis
@@ -36,6 +37,14 @@ MongoDB • MySQL • AWS • Firebase
 Git • Linux • Docker • CI/CD • OpenCV • Backtrader
 
 ## 🔥 Featured Projects
+
+### 🛡️ Redline — Agent Safety Evals + Debate Mitigation
+Security‑focused evaluation platform for LLM agents
+- Generates adversarial test cases and scores safety/reliability metrics
+- Baseline vs debate mode (Proposer → Critic → Revision)
+- Full run + trace storage in Postgres with FastAPI API and minimal UI
+- Secure by default: no unsafe tools, prompt‑injection detection, API key auth
+- **Tech:** Python, FastAPI, SQLAlchemy, Postgres, Redis, RQ, Docker
 
 ### 💳 [Credit Risk Prediction](link)
 End-to-end ML system for financial decision-making
@@ -120,4 +129,3 @@ Algorithmic trading system with technical indicators
 ---
 
 💡 *"Exploring the full spectrum of computer science, one project at a time"*
-
