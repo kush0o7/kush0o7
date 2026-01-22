@@ -100,6 +100,13 @@ Algorithmic trading system with technical indicators
 - Extensible framework for live trading integration
 - **Tech:** Python, Backtrader, yfinance
 
+## ✅ Skills Used in Redline
+**Core:** Python • FastAPI • SQLAlchemy • Alembic • Pydantic  
+**Infra:** Docker • Docker Compose • Redis • RQ • Postgres  
+**Security:** API key auth • rate limiting • prompt‑injection defense • secure logging  
+**Testing:** Pytest • reproducible evaluation harness  
+**Systems:** background jobs • deterministic test generation • trace logging  
+
 ## 💼 Experience
 
 **Research Aide** @ ASU School of Earth & Space Exploration *(Oct 2023 - May 2025)*
