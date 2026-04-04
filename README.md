@@ -1,127 +1,8 @@
-# Hi there, I'm Kushagra Tandon 👋
+# Kushagra Tandon
 
-🎓 **Computer Science Student** @ Arizona State University | Expected Graduation: May 2026
-
-💼 **Passionate about:** Machine Learning, Software Engineering, Data Science
-
-📍 **Location:** Tempe, Arizona
-
-## 🚀 About Me
-
-I’m a Computer Science student at Arizona State University graduating in May 2026, with strong interests in artificial intelligence, full-stack development, and quantitative finance. I have several years of hands-on experience building software across backend systems, web applications, and data-driven models.
-My background includes working with languages such as Python, Java, C/C++, JavaScript, and SQL, and frameworks including React, Flask, Django, and TensorFlow. I’ve built projects ranging from scalable web applications to machine learning systems for credit risk modeling and news-driven trading strategies.
-Recently, I’ve been focusing on quantitative finance, applying programming, probability, and statistics to financial modeling, algorithmic trading, and risk analysis. I’m particularly interested in roles at the intersection of software engineering, machine learning, and financial decision-making.
-I enjoy solving complex problems, learning new technologies quickly, and building systems that create real-world impact. I’m always open to connecting, collaborating on technical projects, or discussing opportunities in software engineering, AI, and quantitative finance.
-
-## 🛠️ Technical Skills
-
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
-
-**ML & Data Science:**  
-TensorFlow • XGBoost • Scikit-learn • Pandas • NumPy • NLP • Computer Vision • Time-Series Analysis
-
-**Web & Mobile Development:**  
-React.js • Flask • Django • Node.js • TypeScript • REST APIs • FastAPI • SwiftUI
-
-**Databases & Cloud:**  
-MongoDB • MySQL • PostgreSQL • Redis • AWS • Firebase
-
-**Tools:**  
-Git • Linux • Docker • Docker Compose • CI/CD • SQLAlchemy • Alembic • Pydantic • RQ • OpenCV • Backtrader
-
-## 🔥 Featured Projects
-
-### 🛡️ [Redline — Agent Safety Evals + Debate Mitigation](https://github.com/kush0o7/Redline-Agent-Safety-Eval)
-Security‑focused evaluation platform for LLM agents
-- Generates adversarial test cases and scores safety/reliability metrics
-- Baseline vs debate mode (Proposer → Critic → Revision)
-- Full run + trace storage in Postgres with FastAPI API and minimal UI
-- Secure by default: no unsafe tools, prompt‑injection detection, API key auth
-- **Tech:** Python, FastAPI, SQLAlchemy, Postgres, Redis, RQ, Docker
-
-### 💳 [Credit Risk Prediction](https://creditriskcal.netlify.app)
-End-to-end ML system for financial decision-making
-- Random Forest classifier with calibrated probability scores for risk stratification
-- Full-stack application with Flask API and React frontend
-- CI/CD pipelines for deployment on GitHub Pages and Render
-- Feature engineering from repayment patterns and billing cycles
-- **Tech:** Python, Scikit-learn, React, Flask
-
-### 👤 Facial Recognition Attendance System
-Real-time attendance tracking with deep learning
-- Computer vision system for automated classroom and corporate attendance
-- Deep learning techniques for high-accuracy facial identification
-- Dashboard interface for attendance visualization and analytics
-- **Tech:** Python, TensorFlow, OpenCV
-
-### 📰 [Sentiment Analysis Bot](https://github.com/kush0o7/Sentiment_Analysis_Bot)
-News-driven signal generation using NLP
-- **19% annualized return** in backtests processing 120+ headlines per run
-- Multi-source RSS pipeline fetching 1,000+ financial headlines daily
-- NLP sentiment scoring with rolling-window smoothing for noise reduction
-- Vectorized backtesting engine producing performance metrics in <2s
-- **Tech:** Python, TensorFlow, Scikit-learn, NLP, Pandas/NumPy
-
-### 🎓 PDF to Lecture
-AI-powered educational content generator
-- Transforms PDFs into narrated presentations with automated slide generation
-- **70%+ reduction** in manual content creation effort
-- Optimized backend handling documents up to 500MB
-- Real-time React UI for seamless user interaction
-- **Tech:** Python, NLP, Flask, React.js
-
-### 📱 Peer-to-Peer Rental App
-Mobile marketplace platform
-- Firebase-backed iOS app for equipment listing and booking
-- Scalable MVVM architecture with reactive UI patterns
-- Real-time chat, booking, and listing management
-- **Tech:** SwiftUI, Firebase
-
-### ⚽ [EPL Betting Model](https://bettingisntgood.streamlit.app)
-Sports analytics and predictive modeling
-- XGBoost classifier achieving **ROC-AUC ≈ 0.79** on 570 out-of-sample matches
-- Feature engineering with odds-derived metrics and ELO ratings
-- Interactive Streamlit dashboard for predictions and strategy analysis
-- Backtested multiple betting strategies with ROI evaluation
-- **Tech:** Python, XGBoost, Scikit-learn, Streamlit
-
-### 📊 [Momentum Trading Strategy](https://github.com/kush0o7/Momentum_Following_Strategy)
-Algorithmic trading system with technical indicators
-- SMA crossover strategy (Golden Cross/Death Cross) implemented in Backtrader
-- Backtested across stocks, ETFs, and crypto using historical data
-- Visual analysis tools for entry/exit quality evaluation
-- Extensible framework for live trading integration
-- **Tech:** Python, Backtrader, yfinance
-
-
-## 💼 Experience
-
-**Research Aide** @ ASU School of Earth & Space Exploration *(Oct 2023 - May 2025)*
-- Developing virtual field experience modules for NSF-funded WORM Portal project
-- Integrating Indigenous knowledge frameworks into educational content
-- Collaborating with interdisciplinary teams on immersive learning experiences
-
-**Software Development Intern** @ Hindustan Aeronautics Limited *(Jun 2023 - Aug 2023)*
-- Developed aerospace monitoring dashboards using Java Servlets and web technologies
-- Optimized performance and designed modular, reusable components
-- Enhanced reliability of critical aircraft monitoring systems
-
-## 🌱 Currently Exploring
-
-- Quantitative research and systematic trading strategies
-- Distributed systems and cloud architecture
-- Advanced ML model deployment and MLOps
-- Systems programming with Rust
-- Open source contributions
-
-## 📫 Let's Connect!
+**CS @ Arizona State University** · Graduating May 2026  
+Building LLM evaluation systems, AI safety tooling, and quantitative models  
+STEM OPT available May 2026 · 3 years work auth · No sponsorship needed
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-tandon/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://kushagratandon.netlify.app/)
@@ -129,4 +10,88 @@ Algorithmic trading system with technical indicators
 
 ---
 
-💡 *"Exploring the full spectrum of computer science, one project at a time"*
+## Featured Projects
+
+### 🔴 [Redline — LLM Safety Evaluation Platform](https://github.com/kush0o7/Redline-Agent-Safety-Eval)
+Adversarial evaluation harness for LLM agents with automated safety grading
+- Proposer → Critic → Revision debate pipeline to expose model failure modes
+- Automated metrics: hallucination rate, refusal accuracy, policy compliance
+- Async evaluation via Redis/RQ with full trace storage in Postgres
+- Prompt-injection detection and controlled execution environments
+- **Tech:** Python · FastAPI · PostgreSQL · Redis · RQ · Docker
+
+### 🛡️ [Constitutional Safety Agent](https://github.com/kush0o7/Constitutional-Safety-Agent)
+Full-stack AI safety application enforcing configurable rules on LLM outputs
+- Classifier-based pre/post generation gating with configurable harm thresholds
+- Model-independent rule engine preventing jailbreak overrides
+- Red-team evaluation pipeline with structured trace logging
+- **Tech:** Python · FastAPI · React · Scikit-learn · Docker
+
+### 🤖 [VoiceAI Medical](https://github.com/kush0o7/VoiceAI-medical)
+Production-grade AI system for voice-driven patient scheduling
+- Real-time chat and voice workflows with hallucination-safe backend validation
+- Deployed on AWS EC2 with Nginx, Redis session persistence
+- **Tech:** Node.js · TypeScript · React · Vapi.ai · Groq · Redis · AWS
+
+### ⚡ [DE/LU Power Price Forecasting](https://github.com/kush0o7/Case_study_Energy)
+Quantile forecasting model for EU electricity markets
+- LightGBM q10/q50/q90 model — 60% reduction in MAE vs baseline
+- Integrated Anthropic API with JSON audit logs and hard fallback paths
+- **Tech:** Python · LightGBM · Anthropic API · Pandas
+
+### 🧠 [QuantAI — Intent-Level Market Model](https://github.com/kush0o7/QuantAI)
+Multi-tenant backend for organizational intent inference
+- Semantic drift detection using embeddings to surface early signals
+- Tenant-scoped REST APIs with pgvector similarity and timeline queries
+- **Tech:** FastAPI · PostgreSQL · pgvector · SQLAlchemy · Docker
+
+### 🌍 [WorldweLivein](https://github.com/kush0o7/WorldweLivein)
+Macro scenario engine with probabilistic modeling
+- Monte Carlo simulations across geopolitical and economic scenarios
+- Integrated FRED and GDELT data sources with 1.03% MAE validation
+- **Tech:** React · TypeScript · Python · Monte Carlo
+
+### 🐝 [Hive — Outcome-Driven Agent Framework](https://github.com/kush0o7/hive)
+Agent orchestration framework focused on measurable outcomes
+- **Tech:** Python
+
+### ⚽ [EPL Betting Model](https://bettingisntgood.streamlit.app)
+Calibrated sports outcome predictor
+- XGBoost classifier · ROC-AUC 0.79 on 570 out-of-sample matches
+- Feature engineering with odds-derived metrics and ELO ratings
+- **Tech:** Python · XGBoost · Scikit-learn · Streamlit
+
+### 📈 [Momentum Strategy Lab](https://github.com/kush0o7/Momentum_Following_Strategy)
+Systematic trading strategy with walk-forward validation
+- SMA crossover with ATR-based stops and portfolio simulation
+- Backtested across stocks, ETFs, and crypto
+- **Tech:** Python · Backtrader · yfinance
+
+---
+
+## Skills
+
+**Languages:** Python · C++ · TypeScript · Java · SQL  
+**ML/AI:** LightGBM · XGBoost · Scikit-learn · TensorFlow · Anthropic SDK · pgvector  
+**LLM Systems:** Adversarial evaluation · Red-team pipelines · Safety gating · Prompt-injection mitigation  
+**Backend:** FastAPI · Flask · Django · Redis · PostgreSQL · Docker · REST APIs  
+**Frontend:** React · TypeScript  
+**Tools:** Git · Docker · CI/CD · SQLAlchemy · Backtrader · AWS
+
+---
+
+## Experience
+
+**Teleoperation Associate** · Objectways Technologies LLC *(2026 – Present)*  
+Collecting and recording robot demonstration data using Trossen systems for ML training pipelines
+
+**Research Aide** · ASU School of Earth & Space Exploration *(Oct 2023 – May 2025)*  
+Built data pipelines and virtual field modules for NSF-funded WORM Portal
+
+**Software Dev Intern** · Hindustan Aeronautics Limited *(Jun–Aug 2023)*  
+Built internal dashboards for real-time aerospace telemetry monitoring
+
+---
+
+*Open to roles in LLM evaluation, AI safety, ML engineering, quant systems, and forward deployed engineering*
+
