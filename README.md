@@ -1,7 +1,7 @@
 # Kushagra Tandon
 
 **CS @ Arizona State University** · Graduating May 2026  
-I build AI agents, LLM eval systems, quant models, and things that probably shouldn't work but do
+I build AI agents, break LLMs for a living, and occasionally predict electricity prices
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-tandon/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://kushagratandon.netlify.app/)
