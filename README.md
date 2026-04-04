@@ -1,12 +1,12 @@
 # Kushagra Tandon
 
 **CS @ Arizona State University** · Graduating May 2026  
-Building LLM evaluation systems, AI safety tooling, and quantitative models  
-STEM OPT available May 2026 · 3 years work auth · No sponsorship needed
+I build AI agents, LLM eval systems, quant models, and things that probably shouldn't work but do
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-tandon/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://kushagratandon.netlify.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ktandon4@asu.edu)
+
 
 ---
 
